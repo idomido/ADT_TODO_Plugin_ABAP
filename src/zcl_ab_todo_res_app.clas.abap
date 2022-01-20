@@ -5,7 +5,7 @@ CLASS zcl_ab_todo_res_app DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
-    METHODS if_adt_rest_rfc_application~get_static_uri_path REDEFINITION.
+    METHODS if_adt_rest_rfc_appختتتمlication~get_static_uri_path REDEFINITION.
 
   PROTECTED SECTION.
 
